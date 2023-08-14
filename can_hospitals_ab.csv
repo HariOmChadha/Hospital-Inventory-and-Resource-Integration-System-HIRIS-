@@ -1,0 +1,100 @@
+index_code,facility_name,source_facility_type,provider,postal_code,city,province,CSDname,Pruid,latitude,longitude,max_capacity,current_capacity_percent
+10000,innisfail health centre,general,Public Health Agency of Canada,T4G1A9,innisfail,ab,Innisfail,48,52.019015,-113.9514399,60,40
+10001,westlock healthcare centre (h),general,Public Health Agency of Canada,T7P2G4,westlock,ab,Westlock,48,54.14653,-113.853259,75,59
+10002,westview health centre,general,Public Health Agency of Canada,T7Z2M7,stony plain,ab,Stony Plain,48,53.537465,-113.977133,74,33
+10003,westview health centre - stony plain,,Province of Alberta,T7Z2M7,stony plain,ab,Stony Plain,48,53.53827,-113.978791,31,30
+10004,wetaskiwin hospital & care centre,general,Public Health Agency of Canada,T9A3N3,wetaskiwin,ab,Wetaskiwin,48,52.986764,-113.367947,100,35
+10005,whitecourt healthcare centre,general,Public Health Agency of Canada,T7S1M8,whitecourt,ab,Whitecourt,48,54.131598,-115.674435,6,3
+10006,william j. cadzow - lac la biche healthcare centre,,Province of Alberta,T0A2C0,lac la biche,ab,Lac la Biche County,48,54.7643782,-111.9635723,46,43
+10007,100 mile district general hospital,general,Public Health Agency of Canada,V0K2E0,100 mile house,bc,One Hundred Mile House,59,51.6376711,-121.2930534,60,41
+10008,115th residence,,Province of British Columbia,V1G3C7,dawson creek,bc,Dawson Creek,59,55.7455893,-120.2501096,92,88
+10009,11a home,,Province of British Columbia,V4M1Z7,delta,bc,Delta,59,49.0241528,-123.0812712,96,48
+10010,1220 east 14th,,Province of British Columbia,V7J1K2,north vancouver,bc,North Vancouver,59,49.3209903,-123.0404142,40,34
+10011,122nd avenue home,,Province of British Columbia,V2X3X8,maple ridge,bc,Maple Ridge,59,49.2244182,-122.6062374,21,10
+10012,123 walk-in clinic,,Province of British Columbia,V2T4V1,abbotsford,bc,Abbotsford,59,49.051786,-122.315463,43,39
+10013,123rd home,,Province of British Columbia,V2X4B2,maple ridge,bc,Maple Ridge,59,49.2259116,-122.6427073,18,7
+10014,13333 - 20th avenue,,Province of British Columbia,V4A1Z3,surrey,bc,Surrey,59,49.038953,-122.852582,44,28
+10015,1416 residence,,Province of British Columbia,V1G2C9,dawson creek,bc,Dawson Creek,59,55.759787,-120.242,88,82
+10016,17th street home,,Province of British Columbia,V1T8R7,vernon,bc,Vernon,59,50.273778,-119.255517,97,48
+10017,1985 treelane road,,Province of British Columbia,V9W4G1,campbell river,bc,Campbell River,59,50.025908,-125.27372,84,70
+10018,1990 treelane road,,Province of British Columbia,V9W4E8,campbell river,bc,Campbell River,59,50.026306,-125.27363,78,15
+10019,216a street,,Province of British Columbia,V1M4C7,langley,bc,Langley,59,49.1658526,-122.6236643,99,27
+10020,227th home,,Province of British Columbia,V2X6K5,maple ridge,bc,Maple Ridge,59,49.2346071,-122.5944504,68,41
+10021,25th avenue group home,,Province of British Columbia,V1E3C7,salmon arm,bc,Salmon Arm,59,50.7177569,-119.2529612,7,5
+10022,29th street house,,Province of British Columbia,V1N3T9,castlegar,bc,Castlegar,59,49.2759644,-117.6461235,11,6
+10023,30th street group home,,Province of British Columbia,V1E2B6,salmon arm,bc,Salmon Arm,59,50.708592,-119.2511272,81,70
+10024,3381 worthington,,Province of British Columbia,V5M3X8,vancouver,bc,Vancouver,59,49.2551157,-123.0327623,52,46
+10025,35th avenue home,,Province of British Columbia,V1T2R3,vernon,bc,Vernon,59,50.2664676,-119.2434272,69,42
+10026,38th avenue group home,,Province of British Columbia,V5W1H8,vancouver,bc,Vancouver,59,49.2364595,-123.0949445,91,29
+10027,47th avenue residence,,Province of British Columbia,V5P1P6,vancouver,bc,Vancouver,59,49.2279307,-123.070041,10,6
+10028,4th street home,,Province of British Columbia,V1C5V9,cranbrook,bc,Cranbrook,59,49.5156951,-115.7487471,68,18
+10029,58th avenue home,,Province of British Columbia,V4X2G1,abbotsford,bc,Abbotsford,59,49.107193,-122.415845,10,6
+10030,5960 angus place,,Province of British Columbia,V3S4W7,surrey,bc,Surrey,59,49.110777,-122.747127,89,72
+10031,5984 - 191a street,,Province of British Columbia,V3S7N1,surrey,bc,Surrey,59,49.1106832,-122.691835,60,24
+10032,6655a and 6655b arlington street,,Province of British Columbia,V5S3P1,vancouver,bc,Vancouver,59,49.222888,-123.029207,15,3
+10033,6699 arlington,,Province of British Columbia,V5S3P1,vancouver,bc,Vancouver,59,49.222641,-123.029465,28,27
+10034,7th street,,Province of British Columbia,V1C1M7,cranbrook,bc,Cranbrook,59,49.5020649,-115.7749363,54,15
+10035,88th,,Province of British Columbia,V1M2R4,langley,bc,Langley,59,49.1623587,-122.5823423,27,20
+10036,917 foster,,Province of British Columbia,V3J2L8,coquitlam,bc,Coquitlam,59,49.2565375,-122.8710548,64,36
+10037,92a street house,,Province of British Columbia,V1J3J6,fort st john,bc,Fort St. John,59,56.2337165,-120.8340087,10,6
+10038,9511 steveston highway,,Province of British Columbia,V7A1M7,richmond,bc,Richmond,59,49.1337379,-123.1212091,6,4
+10039,95th avenue residence,,Province of British Columbia,V1G1K2,dawson creek,bc,Dawson Creek,59,55.7674715,-120.249386,79,52
+10040,abbotsford regional hospital and cancer care,general,Public Health Agency of Canada,V2S3P1,abbotsford,bc,Abbotsford,59,49.041893,-122.295136,96,43
+10041,abbotsford regional hospital and cancer centre,cancer,Public Health Agency of Canada,V2S0C2,abbotsford,bc,Abbotsford,59,49.037872,-122.312854,80,45
+10042,abbotsford village medical clinic,,Province of British Columbia,V2S2C7,abbotsford,bc,Abbotsford,59,49.038729,-122.269714,38,21
+10043,abbott house,,Province of British Columbia,V9L6B4,duncan,bc,North Cowichan,59,48.850301,-123.71504,67,28
+10044,abby central medical and dental clinic,,Province of British Columbia,V2T6Y4,abbotsford,bc,Abbotsford,59,49.0541,-122.3176,97,27
+10045,aberdeen hospital - victoria,extended care,Public Health Agency of Canada,V8T2B7,victoria,bc,Victoria,59,48.4418999,-123.343,22,11
+10046,able care medical clinic,,Province of British Columbia,V3B6J6,coquitlam,bc,Coquitlam,59,49.277419,-122.795021,30,11
+10047,acacia ty mawr,,Province of British Columbia,V0R2W0,shawnigan lake,bc,Cowichan Valley B,59,48.649871,-123.62358,59,10
+10048,acropolis manor,,Province of British Columbia,V8J4C1,prince rupert,bc,Prince Rupert,59,54.304055,-130.33,24,19
+10049,adanac house,,Province of British Columbia,V8R2C4,victoria,bc,Victoria,59,48.4350268,-123.3317071,86,39
+10050,adanac park lodge,,Province of British Columbia,V5K4T2,vancouver,bc,Vancouver,59,49.2770771,-123.0245958,54,34
+10051,adrian house,,Province of British Columbia,V5B3R6,burnaby,bc,Burnaby,59,49.2756077,-122.9836654,14,7
+10052,agassiz seniors community,,Province of British Columbia,V0M1A3,agassiz,bc,Kent,59,49.2335015,-121.7681608,95,34
+10053,airport way medical clinic,,Province of British Columbia,V0C1R0,fort nelson,bc,Northern Rockies,59,58.80862,-122.6934,46,20
+10054,alder house,,Province of British Columbia,V5N4M9,vancouver,bc,Vancouver,59,49.2461756,-123.0655383,51,46
+10055,alder medical centre,,Province of British Columbia,V9W5Y4,campbell river,bc,Campbell River,59,50.007502,-125.241145,89,22
+10056,alder medical clinic,,Province of British Columbia,V0K2E1,100 mile house,bc,One Hundred Mile House,59,51.6391635,-121.2962013,50,33
+10057,alexis home,,Province of British Columbia,V2B4L1,kamloops,bc,Kamloops,59,50.701098,-120.3833093,62,53
+10058,alfred adult residential,,Province of British Columbia,V0J2N0,smithers,bc,Smithers,59,54.776614,-127.17154,74,21
+10059,alice lake place group home,,Province of British Columbia,V3C5W8,coquitlam,bc,Coquitlam,59,49.2551287,-122.813081,22,13
+10060,allwood medical centre,,Province of British Columbia,V2T3R7,abbotsford,bc,Abbotsford,59,49.051728,-122.319815,50,21
+10061,altesse,,Province of British Columbia,V5H1H7,burnaby,bc,Burnaby,59,49.2343917,-123.0214555,24,8
+10062,amadeus residence,,Province of British Columbia,V9C4A2,victoria,bc,Metchosin,59,48.392091,-123.53762,11,2
+10063,amelia house,,Province of British Columbia,V8L2H6,sidney,bc,Sidney,59,48.6589243,-123.4037832,48,22
+10064,amica at edgemont village,,Province of British Columbia,V7R0A3,north vancouver,bc,North Vancouver,59,49.33829,-123.101,60,16
+10065,amica douglas house,,Province of British Columbia,V8V2N8,victoria,bc,Victoria,59,48.410418,-123.3692,26,17
+10066,amica lions gate,,Province of British Columbia,V7T1M2,west vancouver,bc,West Vancouver,59,49.3313851,-123.135713,94,44
+10067,thorpe rd. house (v.i.t.a.l.),,Province of British Columbia,V9N7K7,courtenay,bc,Courtenay,59,49.700739,-124.97727,58,44
+10068,twelfth avenue,,Province of British Columbia,V3N2K6,burnaby,bc,Burnaby,59,49.2190106,-122.9329777,66,56
+10069,twenty sixth avenue home,,Province of British Columbia,V4W3N6,aldergrove,bc,Langley,59,49.0492254,-122.4728834,87,37
+10070,twin oaks,,Province of British Columbia,V8X3T8,victoria,bc,Saanich,59,48.503458,-123.3578157,48,41
+10071,ty watson house,,Province of British Columbia,V9Y1Z8,port alberni,bc,Port Alberni,59,49.2276256,-124.8086038,99,87
+10072,tyndall home,,Province of British Columbia,V8N3S6,victoria,bc,Saanich,59,48.490212,-123.31749,56,19
+10073,ubc hospital,general,Public Health Agency of Canada,V6T2B5,vancouver,bc,Greater Vancouver A,59,49.2631558,-123.2460022,68,23
+10074,ubc hospital - detwiller pavilion,,Province of British Columbia,V6T2A1,vancouver,bc,Greater Vancouver A,59,49.264575,-123.244143,25,12
+10075,ubc hospital - koerner pavilion,,Province of British Columbia,V6T1Z3,vancouver,bc,Greater Vancouver A,59,49.264671,-123.244259,22,18
+10076,ubc hospital - purdy pavilion,,Province of British Columbia,V6T2B5,vancouver,bc,Greater Vancouver A,59,49.263388,-123.245945,66,52
+10077,ultima medical services,,Province of British Columbia,V7X1L4,vancouver,bc,Vancouver,59,49.2864911,-123.1213,43,39
+10078,una medical clinic,,Province of British Columbia,V6H1R7,vancouver,bc,Vancouver,59,49.257857,-123.127501,72,41
+10079,university hospital - purdy pavilion ecu,,Province of British Columbia,V6T2B5,vancouver,bc,Greater Vancouver A,59,49.26331,-123.255,22,10
+10080,university hospital of northern british columbia,,Province of British Columbia,V2M1S2,prince george,bc,Prince George,59,53.911251,-122.763153,46,38
+10081,university of northern british columbia,,Province of British Columbia,V2N4Z9,prince george,bc,Prince George,59,53.8922,-122.8134,57,39
+10082,university village medical,,Province of British Columbia,V6T1T5,vancouver,bc,Greater Vancouver A,59,49.266463,-123.242117,52,10
+10083,uptown medical clinic,,Province of British Columbia,V8X1W7,victoria,bc,Saanich,59,48.45517,-123.3744,92,58
+10084,valemount community health centre,general,Public Health Agency of Canada,V0E2Z0,valemount,bc,Valemount,59,52.83174,-119.273927,33,9
+10085,valhaven rest home,,Province of British Columbia,V4X1Y5,abbotsford,bc,Abbotsford,59,49.0789671,-122.3857153,94,57
+10086,valley centre medical clinic,,Province of British Columbia,V2Y1A7,langley,bc,Langley,59,49.11821,-122.673359,49,47
+10087,valleyhaven,,Province of British Columbia,V2P1M2,chilliwack,bc,Chilliwack,59,49.1664458,-121.9661444,79,39
+10088,valleyview treatment centre,,Province of British Columbia,V0R1L0,cobble hill,bc,Cowichan Valley C,59,48.710695,-123.607747,7,2
+10089,van kleeck home,,Province of British Columbia,V0E1B1,armstrong,bc,Armstrong,59,50.4387917,-119.1874706,31,29
+10090,vancouver coastal health,,Province of British Columbia,V6T1Z3,vancouver,bc,Greater Vancouver A,59,49.2640819,-123.2462781,53,25
+10091,vancouver detoxification centre,,Province of British Columbia,V5T1B9,vancouver,bc,Vancouver,59,49.267258,-123.097,35,15
+10092,vancouver general hospital,general,Public Health Agency of Canada,V5Z1M9,vancouver,bc,Vancouver,59,49.261616,-123.1239113,36,34
+10093,vancouver general hospital - banfield pavilion,,Province of British Columbia,V5Z1M9,vancouver,bc,Vancouver,59,49.261231,-123.118806,99,58
+10094,vancouver general hospital - gordon and leslie diamond health care centre,,Province of British Columbia,V5Z1M9,vancouver,bc,Vancouver,59,49.261187,-123.125655,35,18
+10095,vancouver general hospital - health centre,,Province of British Columbia,V5Z1N1,vancouver,bc,Vancouver,59,49.26052,-123.120849,69,17
+10096,vancouver general hospital - jim pattison pavilion,,Province of British Columbia,V5Z1M9,vancouver,bc,Vancouver,59,49.260558,-123.124094,17,7
+10097,vancouver general hospital - leon judah blackmore pavilion,,Province of British Columbia,V5Z1M9,west vancouver,bc,Vancouver,59,49.260542,-123.122823,94,80
+10098,vancouver general hospital - willow pavilion,,Province of British Columbia,V5Z1M9,vancouver,bc,Vancouver,59,49.26051,-123.122,94,64
