@@ -8,7 +8,7 @@
 HIRIS allows hospitals to use resources from other hospitals in times of need, by identifying and recommending nearby hospitals with a potential surplus of resources, based on the amount and type of resource needed.
 
 ## How we built it
-First, we identified the goals that the system of HIRIS needs to fulfill. From these goals, we determined a data structure that contains necessary data categories and is organized to streamline input, manipulation and retrieval. Then, we separated the system into multiple programs that interface with one another and the data structure, and establish milestones for their completion. Before coding each program, we also agreed upon the interfaces between the programs.
+First, we identified the goals that the system of HIRIS needs to fulfill. From these goals, we determined a data structure that contains necessary data categories and is organized to streamline input, manipulation and retrieval. Then, we separated the system into multiple programs that interface with one another and the data structure, and established milestones for their completion. Before coding each program, we also agreed upon the interfaces between the programs.
 While we worked on separate parts of the system, we performed frequent progress check-ups to test programs, , as well as identify unexpected new goals or changes to the interface.
 
 ## Challenges we ran into
@@ -27,10 +27,10 @@ While we worked on separate parts of the system, we performed frequent progress 
 ## What's next for HIRIS
 - Improving performance of data retrieval algorithms, for scalability to larger datasets
 - Adding remote access capabilities
-- Integrating weighing system with findings from system modelling studies, to provide more practical optimizations
+- Integrating the weighing system with findings from system modelling studies, to provide more practical optimizations
 - Allow hospitals to specify base demand to retain a supply of resources if needed
 - Adding new/replacing current data categories to better suit medical industry needs
 - Improving the accuracy of Estimated Time to Arrival predictions
 - Improving security
 
-
+Devpost link: https://devpost.com/software/hospital-inventory-and-resource-integration-system-hiris?ref_content=my-projects-tab&ref_feature=my_projects
